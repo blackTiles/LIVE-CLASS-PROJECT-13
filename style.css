@@ -300,3 +300,8 @@
         font-size: 45px;
     }
 }
+@media (max-width:600px){
+    .navbar{
+        margin: 10px auto;
+    }
+}
